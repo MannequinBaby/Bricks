@@ -1,4 +1,4 @@
-import { collision } from "/src/collisionDetection";
+import {collision} from "/src/collisionDetection.js";
 export default class Ball {
   constructor(game) {
     //this.game allows us to check the position of anything

@@ -1,4 +1,4 @@
-import { collision } from "/src/collisionDetection";
+import {collision} from "/src/collisionDetection.js";
 
 export default class Brick {
   constructor(game, position) {
